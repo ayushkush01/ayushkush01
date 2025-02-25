@@ -20,8 +20,7 @@
 ## 📫 Connect with Me  
 🌍 **Portfolio:** [Coming Soon]  
 📧 **Email:** ayushkushwaha26x@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ayushkushwahax1/ 
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/ayushkushwahax1/
 🐦 **Twitter/X:** @ayushxs
   
 
