@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Kushwaha  
 
-🚀 **Aspiring Full Stack .NET Developer | Android Developer**  
+🚀 **Aspiring Full Stack .NET Developer | Android Developer | Software Engineer** 
 🎯 Passionate about developing scalable applications, optimizing performance, and creating seamless user experiences.  
 
 ---
@@ -21,7 +21,7 @@
 🌍 **Portfolio:** [Coming Soon]  
 📧 **Email:** ayushkushwaha26x@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ayushkushwahax1/                                                                                            
- 🐦 **Twitter/X:** @ayushxs
+ 🐦 **Twitter/X:**  https://x.com/ayushxs
   
 
 ---
