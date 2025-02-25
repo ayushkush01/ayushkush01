@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ayush Kushwaha  
 
 🚀 **Aspiring Full Stack .NET Developer | Android Developer** 
- 🎯 Passionate about developing scalable applications, optimizing performance, and creating seamless user experiences.  
+---
+🎯 Passionate about developing scalable applications, optimizing performance, and creating seamless user experiences.  
 
 ---
 
